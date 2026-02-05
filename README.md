@@ -1,0 +1,14 @@
+# user 15 V2VBS35V.29-105-ST2.9 a23d0 release-keys
+- manufacturer: motorola
+- platform: parrot
+- codename: monai
+- flavor: user
+- release: 15
+- id: V2VBS35V.29-105-ST2.9
+- incremental: a23d0
+- tags: release-keys
+- fingerprint: motorola/monai/monai:15/V2VBS35V.29-105-ST2.9/a23d0:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-15-V2VBS35V.29-105-ST2.9-a23d0-release-keys
+- repo: motorola_monai_dump
