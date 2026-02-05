@@ -1,0 +1,10 @@
+<!--
+    Input:
+        motorola/hardware/interfaces/display/stylus/aidl/default/com.motorola.hardware.display.stylus.xml
+-->
+<manifest version="8.0" type="device">
+    <hal format="aidl">
+        <name>com.motorola.hardware.display.stylus</name>
+        <fqname>IMotStylus/default</fqname>
+    </hal>
+</manifest>
