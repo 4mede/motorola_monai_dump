@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=motorola
+ro.product.vendor_dlkm.device=monai
+ro.product.vendor_dlkm.manufacturer=motorola
+ro.product.vendor_dlkm.model=monai
+ro.product.vendor_dlkm.name=monai
+ro.vendor_dlkm.build.date=Tue Jan 13 04:57:01 CST 2026
+ro.vendor_dlkm.build.date.utc=1768301821
+ro.vendor_dlkm.build.fingerprint=motorola/monai/monai:15/VVB3S5V-W1-ST15.1/a4deb:user/release-keys
+ro.vendor_dlkm.build.id=VVB3S5V-W1-ST15.1
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=a4deb
+ro.vendor_dlkm.build.version.release=15
+ro.vendor_dlkm.build.version.release_or_codename=15
+ro.vendor_dlkm.build.version.sdk=35
+# end of file
+
