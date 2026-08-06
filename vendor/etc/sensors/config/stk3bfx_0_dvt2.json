@@ -1,0 +1,16 @@
+{
+  "config":{
+    "hw_platform": ["HDK", "MTP", "Dragon", "Surf", "IDP", "QRD"],
+    "soc_id": ["537","663","613"],
+    "ro.vendor.hw.revision": ["dvt2"]
+  },
+  "stk3bfx_0_private":{
+    "owner": "sns_stk3bfx",
+    ".config":{
+      "owner": "sns_stk3bfx",
+      "enable_irdr":{ "type": "int", "ver": "1",
+        "data": "1"
+      }
+    }
+  }
+}
