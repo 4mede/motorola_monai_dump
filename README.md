@@ -1,0 +1,14 @@
+# user 16 VVB3S5V-W1-ST15.1 a69b3c release-keys
+- manufacturer: motorola
+- platform: parrot
+- codename: monai
+- flavor: user
+- release: 16
+- id: VVB3S5V-W1-ST15.1
+- incremental: a69b3c
+- tags: release-keys
+- fingerprint: motorola/monai/monai:15/VVB3S5V-W1-ST15.1/a69b3c:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-16-VVB3S5V-W1-ST15.1-a69b3c-release-keys
+- repo: motorola_monai_dump
