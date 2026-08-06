@@ -1,0 +1,31 @@
+
+s20827spn_3d_coriolisŒÊˆ¬b
+CorioliscoriolisF
+Coriolis MMSmmscoriolisZhttp://mms.coriolis.frb	10.12.0.1j9028"± 
+allow_merging_rtt_calls_bool(O
+%carrier_vvm_package_name_string_array2&
+$com.coriolis.visualvoicemailcoriolis 
+ignore_rtt_mode_setting_bool(
+maxImageHeight˜
+maxImageWidth 
+maxMessageSize€À%#
+moto_data_stall_check_count_int22
+moto_data_stall_config_stringrsrp=-108,sinr=-1)
+%moto_modem_ims_register_recovery_bool(€
+moto_smart_5g_args_strf"disable_endc_screen_off_support=true,nrca_mitigation_enable=true,disable_endc_deep_doze_support=true"
+moto_smart_5g_enabled_bool( 
+moto_smart_5g_supported_bool('
+#moto_support_data_stall_detect_bool(3
+!non_roaming_operator_string_array2
+20801
+20810
+recipientLimit 
+rtt_downgrade_supported_bool(
+rtt_supported_bool(
+rtt_upgrade_supported_bool("
+show_4g_for_lte_data_icon_bool(%
+sim_country_iso_override_stringfr
+smsToMmsTextThreshold$
+vvm_destination_number_string223
+vvm_port_number_intû* 
+vvm_type_stringvvm_type_omtp

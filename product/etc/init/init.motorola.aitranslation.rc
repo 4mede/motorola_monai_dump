@@ -1,0 +1,23 @@
+on early-init && property:ro.product.name.canonical="vienna"
+   setprop ro.mot.aitrans.enable false
+
+on early-init && property:ro.carrier="docomo"
+   setprop ro.mot.aitrans.enable false
+
+on early-init && property:ro.carrier="kddi"
+   setprop ro.mot.aitrans.enable false
+
+on early-init && property:ro.carrier="rakuten"
+   setprop ro.mot.aitrans.enable false
+
+on early-init && property:ro.carrier="retjp"
+   setprop ro.mot.aitrans.enable false
+
+on early-init && property:ro.carrier="softbank"
+   setprop ro.mot.aitrans.enable false
+
+on early-init && property:ro.carrier="ymobile"
+   setprop ro.mot.aitrans.enable false
+
+on early-init
+   setprop ro.mot.aitrans.enable true
